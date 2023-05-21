@@ -1,0 +1,12 @@
+/*  
+	*****Programming Project(Prp)*****  
+    *****NAME: Jaya Sathwika Gadi*****
+	*****last four digits of NJIT ID: 7865*****
+	*****UCID: jg899*****
+	I HAVE READ THE COLLABORATION SECTION OF THE SYLLABUS. DOCUMENT 3 and PRP ADHERED
+*/
+#Compile
+g++ -std=c++11 hashing_7865.cpp -o hashing
+#run
+./hashing test.txt
+#No bugs are reported
